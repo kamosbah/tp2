@@ -1,1 +1,1 @@
-Karim Mosbah et Lilit Khanoyan
+Avec un peu de chance, le fichier nommé est dans la branche mon_fichier et il contient ce message d'explication. Je vais le commit à nouveau dès que j'ai fini cette commande echo
